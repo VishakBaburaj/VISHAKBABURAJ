@@ -5,4 +5,4 @@ Expertise:
 
 * Exploratory Data Analysis, Time Series Analysis, Regression, Classification, Clustering, and Natural Language 
 Processing.
-*Product Development, Product Management, Project Management, Product Analytics, and Marketing Analytics.
+* Product Development, Product Management, Project Management, Product Analytics, and Marketing Analytics.
