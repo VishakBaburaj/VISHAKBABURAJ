@@ -5,5 +5,6 @@ A Google Certified Data Analyst with cross-functional team collaboration, data v
 Expertise:
 
 ● SQL, Tableau, Excel, Python, R.
+
 ● Exploratory Analysis, Descriptive Analysis, Inferential Analysis, Statistical Analysis, and Predictive Analysis.
 
