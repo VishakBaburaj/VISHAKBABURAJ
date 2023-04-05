@@ -13,3 +13,5 @@ In addition to my technical skills, I possess a range of soft skills that have e
 
 I am also a Google Data Analytics Professional Certificate holder and am committed to ongoing learning and professional development in the field of data analytics. If you are looking for a data analyst with a passion for solving complex business problems and a proven track record of delivering results, please do not hesitate to reach out.
 
+### Resume
+https://docs.google.com/document/d/1PCZu0g248JuqHyYqb4lDgilENvFrbEpS5H_NxZqxyjw/edit?usp=sharing
