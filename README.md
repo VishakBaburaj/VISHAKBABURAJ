@@ -1,4 +1,4 @@
-![](https://github.com/VishakBaburaj/VishakBaburaj/blob/master/Banner_Vishak.png)
+![](https://github.com/VishakBaburaj/VishakBaburaj/blob/master/Github Banner.png)
 
 # 💫 About Me:
 I'm a data analyst professional with a dual master's degree.<br>I'm looking to collaborate with like-minded professionals. <br>Ask me about my approach to learning data analytics.<br>Fun fact about me I'm also a professional contemporary dancer.
