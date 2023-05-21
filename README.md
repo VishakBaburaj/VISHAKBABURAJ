@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
-- 👨‍💻 All of my projects are available at: [https://vishakbaburaj.carrd.co](https://vishakbaburaj.carrd.co/)
+- 👨‍💻 All of my projects are available at: [vishakbaburaj.carrd.co](https://vishakbaburaj.carrd.co/)
 
 - 📫 How to reach me: **vishak.baburaj.jobs@gmail.com**
 
