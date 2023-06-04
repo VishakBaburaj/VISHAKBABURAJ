@@ -22,4 +22,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=VishakBaburaj&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 
-<h3 align="right"> ![](https://github-readme-streak-stats.herokuapp.com/?user=VishakBaburaj&theme=midnight-purple&hide_border=false) </h3>
+<div align="right">
+  <h3>GitHub Stats:</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishakBaburaj&theme=midnight-purple&hide_border=false" alt="GitHub Stats">
+</div>
+
