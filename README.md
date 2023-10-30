@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
-- 📫 How to reach me: **vishak.baburaj.jobs@gmail.com**
+📫 How to reach me: **vishak.baburaj.jobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
