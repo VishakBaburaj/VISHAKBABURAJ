@@ -2,11 +2,7 @@
 
 <img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
-- 👨‍💻 My projects are available at: [vishakbaburaj.carrd.co](https://vishakbaburaj.carrd.co/)
-
 - 📫 How to reach me: **vishak.baburaj.jobs@gmail.com**
-
-- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1PCZu0g248JuqHyYqb4lDgilENvFrbEpS5H_NxZqxyjw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
