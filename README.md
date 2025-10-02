@@ -1,6 +1,6 @@
 ![](https://github.com/VishakBaburaj/VishakBaburaj/blob/master/github_banner.png)
 
-<img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 📫 How to reach me: **vishak.baburaj.jobs@gmail.com**
 
